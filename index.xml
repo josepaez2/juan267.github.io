@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacker Pilot</title>
+    <link>https://juan267.github.io/index.xml</link>
+    <description>Recent content on Hacker Pilot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Mar 2017 21:20:42 -0500</lastBuildDate>
+    <atom:link href="https://juan267.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>https://juan267.github.io/post/test/</link>
+      <pubDate>Sun, 26 Mar 2017 21:20:42 -0500</pubDate>
+      
+      <guid>https://juan267.github.io/post/test/</guid>
+      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Hoollalalalal&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
